@@ -1,3 +1,4 @@
+import React,{ useState } from "react";
 import "./widgetLg.css";
 
 export default function WidgetLg() {

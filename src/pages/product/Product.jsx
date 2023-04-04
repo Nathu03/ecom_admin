@@ -1,3 +1,4 @@
+import React from 'react';
 import { Link } from "react-router-dom";
 import "./product.css";
 import Chart from "../../components/chart/Chart"
