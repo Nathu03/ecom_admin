@@ -1,4 +1,4 @@
-import React,{ useState } from "react";
+import React from "react";
 import "./topbar.css";
 import { NotificationsNone, Language, Settings } from "@material-ui/icons";
 
