@@ -2,7 +2,7 @@ import React from 'react'
 
 const Nathu = () => {
   return (
-    <div>Nathu</div>
+    <div>Nathu 123</div>
   )
 }
 
